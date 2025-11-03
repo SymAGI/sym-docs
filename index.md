@@ -1,17 +1,12 @@
----
-title: SymAGI Docs
----
-
 <link rel="stylesheet" href="style.css">
 
 # 🧠 SymAGI Documentation
 
-Welkom bij de documentatie van **SymAGI**.
+Welcome to the documentation for **SymAGI**.
 
-Hier vind je informatie over:
-- Sym Core
-- Sym Agent
-- Publieke API’s
+Here you will find information about:
+- Sym Core  
+- Sym Agent  
+- Public APIs  
 
 ---
-*Laatste update: {{ site.time }}*
