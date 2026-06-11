@@ -2,7 +2,7 @@
 title: Getting Started
 layout: default
 nav_order: 1
-parent: Getting Started
+parent: Main
 ---
 
 # 🧠 SymAGI Documentation 24r234t4
