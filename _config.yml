@@ -15,3 +15,5 @@ aux_links:
     - "https://symagi.com"
 
 color_scheme: dark
+
+footer_content: 'A <a href="https://vanlangen.org">vanlangen.org</a> project.'
