@@ -1,3 +1,22 @@
 title: "Symbiosis AGI | Docs"
 description: "Documentation for SymAGI"
-favicon: /favicon.ico
+
+remote_theme: just-the-docs/just-the-docs
+
+url: "https://docs.symagi.com"
+permalink: pretty
+
+favicon_ico: "/favicon.ico"
+
+search_enabled: true
+
+aux_links:
+  "SymAGI":
+    - "https://symagi.com"
+
+nav_external_links:
+  - title: "Main site"
+    url: "https://symagi.com"
+    hide_icon: false
+
+color_scheme: dark
