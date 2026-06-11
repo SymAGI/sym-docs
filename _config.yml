@@ -14,9 +14,4 @@ aux_links:
   "SymAGI":
     - "https://symagi.com"
 
-nav_external_links:
-  - title: "Main site"
-    url: "https://symagi.com"
-    hide_icon: false
-
 color_scheme: dark
